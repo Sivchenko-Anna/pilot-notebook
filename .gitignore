@@ -1,0 +1,24 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency files and artifacts
+node_modules
+dist
+coverage
+
+# TypeScript
+*.tsbuildinfo
+
+# Local
+*.local
+
+# System
+.DS_Store
+*.sw?
+
+frontend/.env
